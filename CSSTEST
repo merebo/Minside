@@ -1,0 +1,350 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="author" content="Merete Bolstad" />
+<meta name="Description" content="F&oslash;rste side til moment basert p&aring; css mal." />
+<meta name="robots" content="all" />
+<title>Kurs i webdesign</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body onload="window.defaultStatus='moment - teknologi studerende jenter p&aring; HIN';" id="moment">
+<div id="container">
+  <div id="intro">
+    <div id="pageHeader">
+      <h1><span>moment</span></h1>
+      <h2><span>V&aring;re hjemmesider <acronym title="moment">moment</acronym> moment</span></h2>
+    </div>
+    <div id="quickSummary">
+      <p>Her m&aring; du f&oslash;lge med! Her kommer det ekstra tips til &aring; bruke i kurset.      </p>
+      <p>&nbsp;</p>
+      <p><strong>HTML</strong></p>
+       <p>&lt;br&gt;teskt
+         &lt;p&gt;tekst&lt;/p&gt;
+       &lt;li&gt;tekst </p>
+       <p><a href="http://www.txt.no/tema/hypertekst/om_hypertekst.htm">Hypertekst
+        &#8211; mer informasjon.</a>      </p>
+        </p>
+      <p>&nbsp;</p>
+      <p><strong>FLASH</strong></p>
+      <p>Eksempel p&aring; flash &#8211; se i banneren p&aring; denne siden:      </p>
+      <p><a href="www.hin.no">www.hin.no</a>      </p>
+      <p>&nbsp;</p>
+      <p><strong>ANIMASJON</strong></p>
+	  <img src="img/j0303372.gif" alt="Animasjon" width="128" height="100" border="0" id="_x0000_i1025" />
+      <p>&nbsp;</p>
+     <a href="img/sheep.wav">Lydklipp</a>
+       <p>&nbsp;</p>
+      <p><a href="http://www.zinio.no"><img src="img/Image 4.GIF" alt="Zinio Norden" width="180" height="500" border="0" longdesc="http://www.zinio.no" /></a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p align="center"> <img src="img/stemning.gif" alt="" width="150" height="198" align="middle" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+       <p class="p1"><strong>HTML</strong></p>
+       <p class="p1"><strong> Strukturering
+         </strong></p>
+       <p class="p1"><strong>Visuell appell
+         </strong></p>
+       <p class="p1"><strong>Brukererfaring</strong></p>
+       <p class="p1"><strong> Interaktivitet
+         </strong></p>
+       <p class="p1"><strong>Markedsstrategi
+         </strong></p>
+       <p class="p1"><strong>M&aring;lgruppe
+         </strong></p>
+       <p class="p1"><strong>Teknisk drift </strong> </p>
+       <p class="p1">&nbsp; </p>
+      <p class="p1"><strong>Stikkord:</strong></p>
+      <p class="p1"><strong>H</strong><span class="p1"><strong>va skal hjemmesiden
+  gj&oslash;re? </strong></span></p>
+      <p class="p1"><span class="p1"><strong>Hvem er den
+        for? </strong></span> </p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><a href="http://www.komplett.no/">Nettbutikk</a></p>
+      <p><a href="http://www.diskusjon.no/index.php?showforum=76&amp;s=hardware.no">Forum</a></p>
+      <p><a href="http://no.msn.com/">MSN</a></p>
+      <p><a href="http://no.wikipedia.org/wiki/Hovedside">Oppslagsverk</a></p>
+      <p><a href="http://www.hydro.no">Bedriftspresentasjon</a></p>
+      <p><a href="http://www.vg.no">Nyhetssider</a></p>
+      <p><a href="http://www.blink.no">Treffsteder</a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>Teste prototype p&aring; en m&aring;lgruppe, feks klassen. </p>
+      <p>&nbsp;</p>
+      <p><strong>MAL - NB NB NB!!! </strong></p>
+      <p>&nbsp;</p>
+      <p>Tenk p&aring; hvordan du skal oppdatere sidene i etterkant!</p>
+      <p>M&aring; du v&aelig;re p&aring; skolen, kan du gj&oslash;re det hjemmefra?? M&aring; du f&aring; noen til &aring; gj&oslash;re det for deg - eks webhotell.</p>
+      <p>&nbsp;</p>
+      <p>OPPGAVE:</p>
+      <p>&nbsp;</p>
+      <p>Se p&aring; dette eksemplet p&aring; en plan og lag din egen plan for et tenkt nettsted. </p>
+      <p><a href="plan.html">EKSEMPEL P&Aring; PLAN</a> </p>
+      <p>Svar p&aring; f&oslash;lgende sp&oslash;rsm&aring;l og send disse og planen din inn til fagl&aelig;rer via <a href="http://www.ABCentia.no">www.abcentia.no </a></p>
+      <p>&nbsp;</p>
+      <p>1. Hva er de sterke sidene med www og hva kan gj&oslash;res for &aring; oppveie de svake sidene? </p>
+      <p>2. Se p&aring; f&oslash;lgende side <a href="http://www.arngren.no">www.arngren.no</a> og gj&oslash;r en vurdering av innholdet p&aring; denne siden. </p>
+      <p>3.Se p&aring; f&oslash;lgende side <a href="http://www.toro.no">www.toro.no</a> og gj&oslash;r en vurdering av innholdet p&aring; siden. Er det noe bestemt du legger merke til.</p>
+      <p>4. Hvorfor er det s&aring; viktig &aring; lage seg en mal. Kan du gi noen argumenter her ?</p>
+      <p>&nbsp;</p>
+      <p>Lengre ut i kurset n&aring;r du har l&aelig;rt mere skal vi gj&oslash;re en analyse av disse sidene for &aring; se om det er en utvikling videre.</p>
+      <p>&nbsp;</p>
+      <p>Lykke til! </p>
+    </div>
+   <div id="preamble">
+      <h3><span>Introduksjon</span></h3>
+      <p>&nbsp;</p>
+      <p class="p1">Webdesgn er de senere &aring;rene blitt allemannseie - teknologisk sett kan
+        hvem som helst sette sammen hjemmesider og legge ut p&aring; nett til allmenn
+        beskuelse.
+        
+      </span></p>
+      <p>I dette kurset skal vi f&oslash;rst se litt p&aring; de kunnskapene som b&oslash;r ligge
+        til grunn for en god webdesigner og hvilke hensyn som b&oslash;r taes til teknologi.
+        Vi skal l&aelig;re &aring; lage et godt opplegg med et nettsted og en god arbeidsm&aring;te for
+        &aring; bygge dette opp.
+        
+      </span></p>
+      <p>&nbsp;</p>
+      <p>Vi skal ta for oss hvem vi lager nettstedet til - er det til oss selv
+        st&aring;r vi rimelig fritt til &aring; gj&oslash;re hva vi vil - men skal det lages hjemmesider
+        til kommersielt bruk for en kunde er det straks andre hensyn &aring; ta.
+        
+      </span></p>
+      <p>&nbsp;</p>
+      <p>Dere skal i l&oslash;pet av dette kurset komme godt i gang med &aring; lage deres
+        eget nettsted - derfor skal hovedfokus ligge p&aring; dette.
+        
+      </span></p>
+      <p>Opplegget vil bli slik at vi f&oslash;rst skal g&aring; i gjennom endel teori, s&aring;
+        skal vi starte &aring; skissere hjemmsidene, og s&aring; skal vi se p&aring; verkt&oslash;yet som skal
+        brukes og en introduksjon til Macromedia pakken.
+        
+      </span></p>
+      <p>&nbsp;</p>
+      <p>Dette kurset kan du jobbe med n&aring;r som helst det passer deg, men jeg
+        vil anbefale en arbeidsform der du gj&oslash;r en full leksjon i gangen. <span
+  style='mso-spacerun:yes'>&nbsp;</span>Det blir enklere &aring; holde motivasjonen oppe.
+        
+      </span></p>
+      <p>Ved endt kurs kan du sende inn produktet ditt og f&aring; en professjonell
+        gjennomgang av det du har utf&oslash;rt. <span style='mso-spacerun:yes'>&nbsp;</span>Videre
+        vil du st&aring; godt rustet til &aring; ta eksamen som privatist i faget ved en av
+        landets h&oslash;gskoler.
+        
+      </span></p>
+      <p>F&oslash;rst og fremst skal vi ha det moro og leke oss - og det er fullt
+      mulig n&aring;r vi har f&aring;tt definert rommet vi kan leke i!</span></p>
+      <p align="center">
+        
+      </span></p>
+   </div>
+  </div>
+  <div id="supportingText">
+    <div id="explanation">
+      <h3><span>Nettet som media</span></h3>
+     
+      <p>&nbsp;</p>
+      <p>Nettet har noen svakheter og styrker som du kanskje i utgangspunket ikke er klar over. Dette baserer seg p&aring; folks oppfatning av det vi er vant med fra f&oslash;r &ndash; b&oslash;kene. Innen dette omr&aring;det skjer det i dag en rivende utvikling og du m&aring; ta hensyn til dette n&aring;r du utvikler et design.</p>
+      <p><strong>Styrker:</strong></p>
+      <p><strong>Interaktivitet</strong><br />
+      Samspillent mellom datamaskin og bruker er avgjort en av de st&oslash;rste fordelene som kan brukes p&aring; en nettside. Dette gir brukeren kontroll over informasjonen en nettside representerer. Her ligger det duge muligheter du som designer kan benytte deg av.</p>
+      <p><strong>Hypertekst</strong><br />
+      Med hypertekst kan du koble dokumenter p&aring; internett gjennom innhold. Hver gang du ser tekst som har strek under seg vet du at du kan klikke p&aring; denne og komme videre til en ny side, et nytt nettsted. Innholdet kan v&aelig;re spredt over hele verden, og dette har gitt oss en mulighet til &aring; navigere p&aring; som er unik.&nbsp;Eksempel p&aring; hypertekst se her. </p>
+      <p><strong>Animasjon.</strong><br />
+      Animasjon er bevegelige bilder som for eksempel video, flash og gif bilder. Dette gir duge muligheter til &aring; gi informasjon til brukeren. Flash har egne utviklingsprogrammer og du vil kunne kj&oslash;pe kurs om flash her om du synes dette emnet er g&oslash;y og vil jobbe videre med det.&nbsp;</p>
+      <p><strong>Lyd.</strong><br />
+      Lyd kommer mer og mer p&aring; nettet &ndash; Microsofts nye operativsystem har stemme kontroll, slik at du snart kan operere datamaskinen din uten &aring; bruke tastatur og mus.</p>
+      <p>Lyd kan brukes p&aring; nettsider i form av musikk, effekter, og tale. Et eksempel er s&oslash;kemotorer for blinde der spesielle programmer gj&oslash;r at du ved &aring; merke teksten f&aring;r den opplest p&aring; nett. Du kan bruke lyd til &aring; gj&oslash;re sidene dine mer tilgjengelige, eller du kan risikere &aring; &rdquo;skremme&rdquo; en bruker videre med en repeterende melodi som du liker, men kanskje ikke dine bes&oslash;kende.</p>
+      <p><strong>St&oslash;rrelse</strong><br />
+      Tusenvis av nye hjemmesider med forskjellig innhold dukker opp hver dag.&nbsp;Det vil si at det er godt mulig at akkurat dine sider vil bli oversett. Det er derfor om &aring; gj&oslash;re innholdet s&aring; tilgjengelig at du n&aring;r den m&aring;lgruppen du vil. Den enorme styrken i dette momentet er at du kan n&aring; enormt duge mennesker med budskapet ditt.</p>
+      <p>&nbsp;</p>
+      <p><strong>Svakheter: </strong></p>
+      <p><strong>Skjerm</strong><br />
+      Skjerm var tidligere en svakhet i forhold til &aring; lese tekst p&aring; grunn av svak oppl&oslash;sning og sm&aring; skjermer.&nbsp;N&aring; har de fleste tilgang til skjermer med god oppl&oslash;sning og rolig bilde. Flatskjermer er i ferd med &aring; overta, og den b&aelig;rbare kan snart brukes som bok.&nbsp;Dette kurset skal produseres i et nytt og sv&aelig;rt lesbart format som duge magasiner utgir sine blader p&aring; n&aring;, se banner til h&oslash;yre. </p>
+      <p>&nbsp;</p>
+      <p><strong>H&aring;ndtering.</strong><br />
+        F&oslash;lelsen av &aring; ta p&aring; og bla om p&aring; et papirmedium er fremdeles det duge foretrekker. </p>
+      <p>&nbsp;</p>
+      <p><strong>Ulikheter</strong><br />
+      Fremdeles m&aring; vi ta hensyn til at brukere har forskjellige utstyr og software. Forskjellige utforskere og platformer viser sidene med variasjoner. De har skjermer av forskjellige kvaliteter og datamaskiner i forskjellige hastigheter. </p>
+      <p>&nbsp;</p>
+      <p><strong>B&aring;ndbredde</strong><br />
+      Nedlastingshastigheten av websider g&aring;r raskere og raskere, selv om de fleste n&aring; har f&aring;tt bredb&aring;nd m&aring; du altid huske p&aring; at det fremdeles er noen som sitter med et godt gammelt modem. </p>
+      <p class="p1">&nbsp;</p>
+    </div>
+    <div id="participation">
+      <h3><span>Om web-design</span></h3>
+      <p>&nbsp; </p>
+      <p>Hjemmesider i dag er designet og produsert av duge forskjellige personer: </p>
+                      <li> IT-folk</li>
+                      <li>Markedsf&oslash;rere</li>
+                      <li>Internett-leverand&oslash;rer</li>
+                      <li>Grafisk designere</li>
+                      <li>Journalister</li>
+                      <li>Hobby-designere</li>
+             
+      <p>&nbsp;</p>
+      <p>Mange av disse personene har en relativ god forst&aring;else for design av hjemmesider, men vil ogs&aring; ha svakheter i designet. En IT-programmerer forst&aring;r HTML og strukturering av sidene, men vet kanskje ikke hvordan han gir sidene en visuell appell. </p>
+      <p>En grafisk designer vet kanskje hvordan du gir sidene appell, men forst&aring;r kanskje ikke hvordan du kan forbedre brukererfaringen med interaktivitet (samspill mellom teknologi og bruker). </p>
+      <p>En markedsf&oslash;rer skj&oslash;nner at hjemmesidene trenger en markedstrategi og en m&aring;lgruppe, men vet kanskje ikke hvordan du teknisk opprettholder hjemmesidene. </p>
+      <p>&Aring; designe en god hjemmeside trenger nettopp en forst&aring;else for alle de feltene nevnt overfor. </p>
+      <p>&nbsp;</p>
+      <p>Hvordan kan du da lage et best mulig design?? Lag deg gjerne en liste med momenter du ser for deg &ndash; for sammenlikning til hva du synes n&aring;r dette kurset er over.</p>
+      <p>&nbsp;</p>
+    </div>
+    <div id="benefits">
+      <h3><span>Plan</span></h3>
+      <p>&nbsp; </p>
+      <p class="p1">&nbsp;</p>
+      <p>For &aring; lage bra design s&aring; trenger du &aring; ha en god plan &aring; f&oslash;lge. En slik prosess vil v&aelig;re et avgj&oslash;rende verkt&oslash;y for b&aring;de effektiv utvikling og for kvalitetssikring av det ferdige produktet. </p>
+      <p>&nbsp;</p>
+      <p>Den kan grovt oppdeles slik:</p>
+      <p>&nbsp;</p>
+      <p>Definering av m&aring;l og krav </p>
+      <p>Unders&oslash;kelser p&aring; forh&aring;nd </p>
+      <p>Analyse </p>
+      <p>L&oslash;sningsutvikling </p>
+      <p>Vurdering av l&oslash;sning og modifisering </p>
+      <p>Produksjon </p>
+      <p>Drifting av design </p>
+      <p class="p1">Tekniske l&oslash;sninger </p>
+      <p class="p1">&nbsp;</p>
+    </div>
+    <div id="requirements">
+      <h3><span>Planlegging</span></h3>
+      <p>&nbsp;</p>
+      <p>Ville du ha tegnet planene til ett hus, uten &aring; vite hvor duge som skal bo i det?</p>
+      <p>&nbsp;</p>
+      <p>Det er ofte at klienten egentlig ikke helt vet hvorfor de skal p&aring; nettet, eller at de misforst&aring;r potensialet til WWW. </p>
+      <p>Det du m&aring; gj&oslash;re er &aring; hjelpe dem med &aring; definere hva de vil. Hva vil de ha? Et visittkort p&aring; nettet? En butikk? Markedsf&oslash;re seg? </p>
+      <p>&nbsp;</p>
+      <p>Du m&aring; ogs&aring; tenke fra den andre siden- fra brukeren sin side. </p>
+      <p>Hva er det brukeren vil ha av websiden? </p>
+      <p>En m&aring;te &aring; vise klienten hvilke muligheter de har, er &aring; vise dem sider p&aring; nettet som kan illustrere konsepter som f.eks. nettbutikker, forum, msn, oppslagsverk, bedriftspresentasjon, nyhetssider, treffsteder m.m. I tillegg er det smart &aring; vise kunden din forskjeller i utforskere som Opera og Explorer eller Firefox. Det er ofte slik at en hjemmeside fremst&aring;r forskjellig her. </p>
+      <p>&nbsp;</p>
+      <p>Erfaring viser at n&aring;r du skal lage en hjemmeside for noen og de skj&oslash;nner at her finnes fler muligheter enn de trodde, s&aring; vil du f&aring; mere arbeid :) og m&aring; passe p&aring; &aring; f&aring; aksept for at du ogs&aring; skal ha betalt for det som vil g&aring; med av ekstra tid.</p>
+      <p>&nbsp; </p>
+      <p><strong>Unders&oslash;kelser p&aring; forh&aring;nd </strong><br />
+      Det er lurt &aring; klarlegge hvilke l&oslash;sninger som allerede eksisterer. De vil mest sannsynligvis gi deg hint om hvilken konkurranse siten kan ha, og hvordan du kan l&oslash;se designkrav siden har. Du kan ogs&aring; her se hvilket visuelt spr&aring;k som eksisterer for denne typen site, og hva som er moteriktig for denne m&aring;lgruppen. Hvis du for eksempel skulle lage en hjemmeside for Adidas, hade det ikke v&aelig;rt smart &aring; ha sett hvordan Nike har designet sin site? I tillegg b&oslash;r du se p&aring; hvem klienten din er og hva de gj&oslash;r.</p>
+      <p>&nbsp;</p>
+      <p><strong>Analyse</strong><br />
+        Det er n&aring; du planlegger i detalj kravene til designet. Ved analyse av informasjonen du har, skal du n&aring; ha en forst&aring;else om hva du trenger &aring; gj&oslash;re.<br />
+      </p>
+      <p><strong>Plandokument</strong><br />
+      Den beste m&aring;ten &aring; dokumentere disse kravene er ved &aring; skrive kravene i et plandokumnet. Den vil hjelpe til med &aring; holde fokus p&aring; designet og innhold. Den er ogs&aring; grei &aring; bruke til dokumentasjon av hva du og kunden ble enige om hva som skal bli gjort. I tillegg s&aring; hjelper det &aring; sette ord p&aring; hva kunden vil med siden du skal lage. </p>
+      <p>&nbsp;</p>
+      <p>Her er noen viktige saker som m&aring; gjennomtenkes f&oslash;r du g&aring;r videre i prosessen:</p>
+      <p>&nbsp;</p>
+            <li>Hva er hensikten med sidene </li>
+            <li>Hva er hovedbudskapet </li>
+            <li>Hvem er det som er m&aring;lgruppe (f.eks. kunder eller intranett) </li>
+            <li>Forplikt deg til &aring; sette opp frister for prosjektet </li>
+            <li>Trenger designet v&aelig;re fleksibelt for utvidet innhold og nye omr&aring;der? </li>
+            <li>Tekniske krav </li>
+            <li>Farger </li>
+            <li>Utforskere (f. eks Explorer &amp; Netscape) </li>
+            <li>Plattform (f. eks PC, Macintosh og Unix) </li>
+            <li>Lyd </li>
+            <li>Plugins (f.eks. Quicktime, Flash) </li>
+            <li>Spesielle krav til datamaskinen kunden har, skjermkort og prosessor </li>
+            <li>B&aring;ndbredden i forhold til om du skal ta hensyn til de som har lav linjehastighet </li>
+ 
+      <p>&nbsp;</p>
+      <p><strong>L&oslash;snings utvikling</strong><br />
+      Det er f&oslash;rst n&aring;r du vet hvilket krav det er til designet, at du skal begynne &aring; planlegge og utvikle det. du ender opp med en designplan og en prototype. Dette vil vi se n&aelig;rmere p&aring; senere i kurset. </p>
+      <p>&nbsp;</p>
+      <p><strong>Vurdering av l&oslash;sning og modifisering</strong><br />
+      Her ser du p&aring; prototypen og tester den p&aring; testbrukere fra m&aring;lgruppen. Det er store fordeler med &aring; gj&oslash;re dette, da det vil avsl&oslash;re svakheter i brukergrensesnittet i designet. Det du kan gj&oslash;re er &aring; sette noen m&aring;l for brukeren, f. eks kj&oslash;pe et stereoanlegg og finne telefonnummeret til en selger p&aring; StereoKing-siten, og s&aring; se p&aring; og notere hvordan de gj&oslash;r det. </p>
+      <p>Det er viktig at de ikke f&aring;r noe hjelp fra deg. Etter oppdagelsen av designsvakheter, retter du de opp i l&oslash;sningsforslaget og pr&oslash;ver disse p&aring; noen nye brukere igjen. Repeter dette til designet er optimalt.</p>
+      <p>&nbsp;</p>
+      <p><strong>Produksjon</strong><br />
+        Etter &aring; ha utviklet en prototype og denne er blitt testet, begynner du n&aring; &aring; produsere sidene. du f&oslash;lger malene som ble laget i prototypen og fyller inn innholdet i sidene (f.eks. statisk informasjon og et stereoanlegg database). Etter en grundig sjekk av stavefeil, gramatikk og at linkene fungerer er det s&aring; klart for &aring; legge ut sidene p&aring; nett. </p>
+      <p>&nbsp;</p>
+      <p><strong>Drifting av sidene </strong><br />
+        Etter sidene er ferdig og de har v&aelig;rt p&aring; nett en stund er det vanlig at det dukker opp ting som m&aring; modifiseres. Det er da naturlig at du som designer har en vedlikeholdsavtale med kunden din der du har avtalt et m&aring;nedlig bel&oslash;p for &aring; se over og oppdatere sidene. Det kan v&aelig;re med hensyn til programvare oppdateringer, sikkerhetsoppdateringer og modifisering av sidene. Hjemmesider er driftsmessig sett dynamiske og det er sjelden det g&aring;r lang tid mellom de modifiseres. </p>
+    </div>
+    <div id="footer"> <a href="http://www.abcentia.no" title="Denne siden er laget av:ABCentia EF">@ABCentia</a> </div>
+  </div>
+    <div id="linkList">
+    <!--extra div for flexibility - this list will probably be the trickiest spot you'll deal with -->
+    <div id="linkList2">
+      <!-- If you're wondering about the extra &nbsp; at the end of the link, it's a hack to meet WCAG 1 Accessibility. -->
+      <!-- I don't like having to do it, but this is a visual exercise. It's a compromise. -->
+      <div id="lselect">
+        <h3 class="select"><span>Select a Design:</span></h3>
+        <!-- list of links begins here. There will be no more than 8 links per page -->
+        <ul>
+          <li><a href="index.html">Forside</a></li>
+          <li><a href="2kurs.html">2 kursdag </a></li>
+          <li><a href="3kurs.html">3 kursdag </a></li>
+          <li><a href="4kurs.html">4 kursdag </a></li>
+          <li><a href="5kurs.html">5 kursdag </a></li>
+          <li><a href="6kurs.html">6 kursdag </a></li>
+          <li><a href="7kurs.html">7 kursdag </a></li>
+          <li><a href="8kurs.html">8 kursdag </a></li>
+		  <li><a href="9kurs.html">9 kursdag </a></li>
+          <li><a href="rapport.html">10 kursdag </a></li>
+          <li><a href="11kurs.html">11 kursdag </a></li>
+		  <li><a href="12kurs.html">12 kursdag </a></li>
+        </ul>
+      </div>
+      <div id="larchives">
+        <h3 class="archives"><span>Archives:</span></h3>
+        <ul>
+          <li>&nbsp;</li>
+          <li><a href="mailto:kontakt@abcentia.no">Innsending av oppgave </a></li>
+        </ul>
+      </div>
+      <div id="lresources">
+        <h3 class="resources">&nbsp;</h3>
+        <ul>
+            <li>ABCentia.no</li>
+            <li></li>
+            <li>@ABCentia.no </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Disse ekstra divs/spans kan brukes paa catch-alls for å legge til ekstra bilder. -->
+<!-- Her kan legges inn bakgrunnsbilde til hver blokk om det er ønskelig. -->
+</body>
+</html>
